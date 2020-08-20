@@ -11,7 +11,7 @@
       margin:0px;
   }
   section.bgimg{
-    background:url('images.jpg');
+    background:url('clientimages.jpg');
     background-repeat:no-repeat;
     color:rgb(202, 198, 198);
     background-size:contain;
