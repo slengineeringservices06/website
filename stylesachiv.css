@@ -1,0 +1,22 @@
+body{
+    background:white;
+}
+.box-a{
+    background: #fcf190;
+    width:1000px;
+    height:500px;
+    border:none;
+    margin:0 auto;
+    bottom:100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-a div{
+background:white;
+line-height:25px;
+margin:10px;
+padding:5px;
+width:280px;
+height:450px;
+}
