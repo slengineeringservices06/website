@@ -13,6 +13,7 @@
   section.bgimg{
     background:url('clientimages.jpg');
     background-repeat:no-repeat;
+    background-position: center;
     color:rgb(202, 198, 198);
     background-size:contain;
     padding:10px;
@@ -26,7 +27,7 @@
    }
 
 
-section{
+section.logo{
     background:white;
     width:60%;
     margin:10px 100px 0 150px;
@@ -34,6 +35,10 @@ section{
     flex-direction: row;
     
   }
+section nav{
+margin:10px;
+
+}
   section div{
     background:white;
     width:120px;
